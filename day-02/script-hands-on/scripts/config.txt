@@ -1,0 +1,8 @@
+server=prod
+port=8080
+app.log.level=DEBUG
+app.log.level=DEBUG
+app.log.level=DEBUG
+app.log.level=DEBUG
+app.log.level=DEBUG
+app.log.level=DEBUG
